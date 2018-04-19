@@ -1,3 +1,3 @@
-# pygame-creations
-# All code here requires Python 3.2.5 and Pygame 1.9.3 in order to run
-# Be sure to check all the branches to see all my creations
+# python-game
+# NOTE: This game requires all the files, including the images, sound and text files, to be in the same folder when the program is run.
+#       This game runs on version 3.2.5 of Python and requires Pygame 1.9.2 in order to run.
