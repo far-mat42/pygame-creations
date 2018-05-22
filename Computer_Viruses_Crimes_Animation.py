@@ -1,9 +1,7 @@
 # Name:          Farris Matar
 # Date:          April 27, 2017
-# Class:         ICS3U1-03
-# Description:   Repitition assignment 2, creating an informational program
+# Description:   Creating an informational program
 #                about computer viruses and crimes.
-#                P.S. The mouse idea was Shane's.
 
 # Starting up Pygame.
 import pygame
