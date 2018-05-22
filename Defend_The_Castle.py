@@ -1,7 +1,6 @@
 # Name:          Farris Matar
 # Date:          May 29, 2017
-# Class:         ICS3U1-03
-# Description:   Final summative, making a game.
+# Description:   Making an endless arcade game.
 
 # -----------------------------------------------------------------------------------------
 # Initialization and Variable Definition
