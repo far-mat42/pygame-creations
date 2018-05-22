@@ -1,7 +1,6 @@
 # Name:          Farris Matar
 # Date:          April 4, 2017
-# Class:         ICS3U1-03
-# Description:   Assignment 1, building a house.
+# Description:   Building a flying house.
 
 # Starting up Pygame.
 import pygame
