@@ -1,7 +1,6 @@
 # Name:          Farris Matar
 # Date:          March , 2017
-# Class:         ICS3U1-03
-# Description:   Python programming test 2 part 2, drawing a picture.
+# Description:   Drawing a picture.
 
 # Starting up pygame.
 import pygame
