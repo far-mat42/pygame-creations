@@ -1,7 +1,6 @@
 # Name:          Farris Matar
 # Date:          March 20, 2017
-# Class:         ICS3U1-03
-# Description:   Graphics exercise 3, drawing a character (Meta Knight).
+# Description:   Drawing a character (Meta Knight).
 
 # Starting up Pygame.
 from math import pi
